@@ -1,7 +1,7 @@
 # conceptual-mindmaps
 This repository is a collection of mindmaps which focus on different branches of Computer Science, with a principal focus on Artificial Intelligence.
 
-The tool [SimpleMind](https://simplemind.eu/) was used for the generation of mindmaps. The pdf exploring different branches will also be made available.
+The tool [SimpleMind](https://simplemind.eu/) was used for the generation of mindmaps.
 
 References:
 - [Reinforcement learning - David Silver, UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
